@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "1122 조O 부정입학 취소 집회"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "1122 조O 부정입학 취소 집회 "
+name                     : "1122 조O 부정입학 취소 집회"
 description              : "고려대학교에서 2019년 11월 22일 개최될 조국 전 법무부장관 후보자 딸인 조O의 부정입학 취소 요구를 위한 집회 관련 정보를 담는 페이지입니다."
 url                      : "https://kuNov22spirit.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
