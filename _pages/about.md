@@ -1,3 +1,11 @@
+---
+title: "집회 개요"
+layout: single
+permalink: /about/
+author_profile: true
+---
+
+
 
 ![](/asset/image/poster01-01.png) 
 
