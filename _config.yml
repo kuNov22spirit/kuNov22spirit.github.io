@@ -134,7 +134,6 @@ author:
 
 
 # Collections
-
 collections:
   portfolio:
     output: true
