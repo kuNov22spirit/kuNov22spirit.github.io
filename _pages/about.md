@@ -1,5 +1,5 @@
 ---
-title: "집회 개요"
+title: "고려대학교 1122 조O 부정입학 취소 집회 개요"
 layout: single
 permalink: /about/
 author_profile: true
