@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "1122집회 집행부"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/asset/image/about_page_header.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "고려대학교에서 2019년 11월 22일 개최될 조국 전 법무부장관 후보자 딸인 조O의 부정입학 취소 요구를 위한 집회 관련 정보를 담는 페이지입니다. 관련 의견개진은 www.koreapas.com의 게시글 또는 ku1122spirit@gmail.com 으로 연락 부탁드립니다."
   location         : "Korea University"
   email            : "ku1122spirit@gmail.com"
