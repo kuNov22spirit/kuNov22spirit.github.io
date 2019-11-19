@@ -1,5 +1,5 @@
 ---
-title: 대자보 & 고대 공식입장
+title: 대자보 및 고대입장
 layout: collection
 permalink: /portfolio/
 collection: portfolio
