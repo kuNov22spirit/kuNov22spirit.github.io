@@ -4,5 +4,6 @@ layout: collection
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
-classes: wide
+classes: single
+author_profile: true
 ---
