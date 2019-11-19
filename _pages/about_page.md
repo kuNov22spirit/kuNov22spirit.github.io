@@ -12,17 +12,17 @@ sidebar:
   - title: "자유, 정의 진리를 다시 이곳에"
     text: ""
 gallery:
-  - url: /assets/images/wp01-01.jpg
-    image_path: assets/images/wp01-01.jpg
+  - url: /asset/image/wp01-01.jpg
+    image_path: asset/image/wp01-01.jpg
     alt: "대자보 1 - p.1"
-  - url: /assets/images/wp01-02.jpg
-    image_path: assets/images/wp01-02.jpg
+  - url: /asset/image/wp01-02.jpg
+    image_path: asset/image/wp01-02.jpg
     alt: "대자보 1 - p.2"
-  - url: /assets/images/wp02-01.jpg
-    image_path: assets/images/wp02-01.jpg
+  - url: /asset/image/wp02-01.jpg
+    image_path: asset/image/wp02-01.jpg
     alt: "대자보 2 - p.1"
-  - url: /assets/images/wp02-02.jpg
-    image_path: assets/images/wp02-02.jpg
+  - url: /asset/image/wp02-02.jpg
+    image_path: asset/image/wp02-02.jpg
     alt: "대자보 2 - p.2"
 ---
 
