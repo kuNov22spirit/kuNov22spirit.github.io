@@ -4,5 +4,5 @@ main:
 #    url: https://kunov22spirit.github.io/
   - title: "Categories"
     url: /categories/
-  - title: "집회개요"
-    url: /portfolio/
+  - title: "집회추진제안 대자보"
+    url: /portfolio/about_page
