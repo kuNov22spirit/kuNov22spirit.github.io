@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://kunov22spirit.github.io/sitemap.xml
