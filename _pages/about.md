@@ -5,21 +5,28 @@ permalink: /about/
 author_profile: true
 ---
 
-
-
-![](/asset/image/poster01-01.png) 
-
-
-
 ----
-수정시각 : 2019-11-22 10:30
+수정시각 : 2019-11-24 04:40
 ----
+
+### #0. 집회 추진 경과
+
+![](/asset/image/191122.jpg) 
+
+* 2019.11.22(금) 19:15경 시작 (15분 순연)
+* 총 참석자 : 약 50여 명
+* 아래 8번의 행사순서 대로 진행하였으며, 자유발언자는 총 3명이었음.
+* 2019.11.24(일) 집회 후원금 사용내역 결산 보고 완료 [링크](https://kunov22spirit.github.io/notices/191124-p1/)
+* 주요 언론보도 : YTN - 고대생들 "조국 딸 입학취소로 정의 회복" [링크](https://www.ytn.co.kr/_ln/0103_201911230031032117)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OoH5N-RQcUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ### #1. 시간과 장소
 * 시간: 2019.11.22 (금) 오후 7시
 * 장소: 중앙광장
-
-
+* 집회 홍보 포스터
+![](/asset/image/poster01-01.png) 
 
 ### #2. 집회의 목적과 정체성
 * 집회명: 1122 조O 부정입학 취소 집회
