@@ -24,8 +24,8 @@ description              : "고려대학교에서 2019년 11월 22일 개최될 
 url                      : "https://kuNov22spirit.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/asset/image/about_page_header.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/asset/image/about_page_header.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/asset/image/191122.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/asset/image/191122.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "1122 조O 부정입학 취소 집회 집행부"
-  avatar           : "/asset/image/about_page_header.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/asset/image/191122.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "고려대학교에서 2019년 11월 22일 개최될 조국 전 법무부장관 후보자 딸 조O의 부정입학 취소 요구를 위한 집회 관련 정보를 담는 페이지입니다. 관련 의견개진은 www.koreapas.com의 게시글 또는 ku1122spirit@gmail.com 으로 연락 부탁드립니다."
   location         : "Korea University"
   email            : "ku1122spirit@gmail.com"
